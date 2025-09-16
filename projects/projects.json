@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Parking Management System",
+    "desc": "Check out my GitHub repository.",
+    "image": "placeholder1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/sadnun01/PROJECTS",
+      "code": "https://github.com/sadnun01/PROJECTS"
+    },
+    "status": "Complete / Available on GitHub"
+  },
+  {
+    "name": "AI Chatbot",
+    "desc": "Coming Soon",
+    "image": "comingsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "/assets/images/comingsoon.jpg",
+      "code": "/assets/images/workinprocess.jpg"
+    },
+    "status": "Coming soon"
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "Coming Soon",
+    "image": "comingsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "/assets/images/comingsoon.jpg",
+      "code": "/assets/images/workinprocess.jpg"
+    },
+    "status": "Coming soon"
+  },
+  {
+    "name": "Cloud Deployment Demo",
+    "desc": "Coming Soon",
+    "image": "comingsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "/assets/images/comingsoon.jpg",
+      "code": "/assets/images/workinprocess.jpg"
+    },
+    "status": "Coming soon"
+  },
+  {
+    "name": "Project 5",
+    "desc": "Coming Soon",
+    "image": "comingsoon",
+    "category": "basicweb",
+    "links": {
+      "view": "/assets/images/comingsoon.jpg",
+      "code": "/assets/images/workinprocess.jpg"
+    },
+    "status": "Coming soon"
+  }
+]
